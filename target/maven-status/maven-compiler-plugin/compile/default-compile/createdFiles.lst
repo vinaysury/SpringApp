@@ -1,0 +1,5 @@
+com/example/kubernetes/UserService.class
+com/example/kubernetes/User.class
+com/example/kubernetes/UserController.class
+com/example/kubernetes/MainApplication.class
+com/example/kubernetes/UserRepository.class
